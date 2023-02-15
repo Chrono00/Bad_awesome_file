@@ -579,7 +579,7 @@ schemes:
 # *SolarizedDark
 # *TomorrowNight
 
-colors: *DoomOne
+colors: *Dracula
 
 #######################################
 ##       END OF COLOR SCHEMES        ##
